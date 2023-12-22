@@ -1,0 +1,89 @@
+    
+    .post {
+        scroll-behavior: smooth;
+        height: 700px;
+        width: 1000px;
+        padding: 40px;
+      }
+
+      .about {
+        max-width: 64rem; 
+        margin: auto;
+        padding: 60px;
+        text-align: center;
+      }
+    .container {
+        max-width: 64rem; 
+        margin: auto;
+        padding-top: 8px;
+        }
+    h1 {
+        text-align: center;
+        color: #fca5a5;
+    }
+    h3 {
+        color: #fca5a5;
+    }
+    .article {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .table, th, td {
+      border-collapse: collapse;
+      border: 1px solid black;
+    }
+    
+    .th {
+      background-color: #ccc;
+      padding: 8px;
+      text-align: center;
+    }
+    
+    .td {
+      padding: 8px;
+    }
+    
+    .total-student {
+      font-weight: bold;
+      text-align: center;
+    }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif, Courier;
+            }
+
+        .topnav {
+        overflow: hidden;
+        width: 100%;
+        background-color: #fca5a5;
+        }
+
+        .topnav a {
+        float: right;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 12px;
+        text-decoration: none;
+        font-size: 20px;
+        display: inline-table;
+        }
+
+        .topnav a {
+        color: white
+        }
+
+        .topnav a.active {
+        color: white;
+        }
+
+        img {
+            border-radius: 50%;
+        }
+
+        a {
+            text-decoration: none;
+        }
+          
